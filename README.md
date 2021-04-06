@@ -1,4 +1,4 @@
 # dsp-math-notes
 Notes on DSP math
 
-[Bode Plots](https://htmlpreview.github.io/?https://github.com/DGriffin91/dsp-math-notes/blob/main/bodes.html)
+[Bode Plots](https://dgriffin91.github.io/dsp-math-notes/bodes.html)
