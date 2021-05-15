@@ -10,3 +10,5 @@ Notes on DSP math
 [Crossovers](https://dgriffin91.github.io/dsp-math-notes/crossover.html)
 
 [Virtual analog first order filters](https://dgriffin91.github.io/dsp-math-notes/va_one_pole.html)
+
+[Virtual analog first order z-domain transfer function](https://dgriffin91.github.io/dsp-math-notes/one_pole_z_domain_tf.html)
